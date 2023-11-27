@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Roboto:ital,wght@0,100;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Roboto&display=swap');
+
+body {
+   padding: 0px;
+   margin: 0px;
+}
+
+.bar_menu {
+   width: 20%;
+   height: 1200vh;
+   background-color: aqua;
+}
+
+.content {
+   width: 80%;
+   height: 1200vh;
+   background-color: blueviolet;
+}
+
+.container {
+   display: flex;
+}
